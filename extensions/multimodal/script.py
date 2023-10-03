@@ -16,11 +16,11 @@ params = {
     # device to run vision encoder on
     "vision_device": None,
     # bits to load vision encoder in, either 16 or 32
-    "vision_bits": 32,
+    "vision_bits": 16,
     # device to run multimodal projector on
     "projector_device": None,
     # multimodal projector bits, either 32 or 16
-    "projector_bits": 32
+    "projector_bits": 16
 }
 
 
